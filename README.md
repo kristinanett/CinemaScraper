@@ -7,4 +7,4 @@ The goal of the project is to simplify the process of finding a suitable movie t
 
 This way the user does not need to visit the each of the cinema websites to search manually. The scraped information can be filtered according to a specific cinema, time and movie genre. An example of the described user interface can be seen below (in Estonian).
 
-<img src="ui.PNG" width=50% height=50%>
+<img src="ui.PNG" width=45% height=50%>
